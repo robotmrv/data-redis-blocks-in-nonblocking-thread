@@ -1,5 +1,5 @@
-####Spring Data redis could close connection in NonBlocking Thread
-#####TC
+#### Spring Data redis could close connection in NonBlocking Thread
+#### TC
 1. start redis (docker-compose up -d) 
 2. start application 
 3. HTTP GET localhost:8080/test
